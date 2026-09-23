@@ -12,3 +12,4 @@ Learning Git is essential for DevOps because it saves us when things go wrong du
 
 ### My Day 4 Practice Output:
 ![Day 4 Git Commands](day-4.jpeg)
+![Day 4 OutPut](day4.png)
