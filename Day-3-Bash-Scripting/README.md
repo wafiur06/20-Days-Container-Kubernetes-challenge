@@ -2,4 +2,4 @@
 
 Here is the output of my system health and backup script:
 
-![Day 3 Output](day4.png)
+![Day 3 Output](day3.png)
